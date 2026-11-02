@@ -35,4 +35,4 @@
 ---
 
 ## 4. Hardware Setup Evidence
-![Physical Setup](docs/wiring_diagram.png)
+![Physical Setup](docs/wiring_diagram.jpg)
