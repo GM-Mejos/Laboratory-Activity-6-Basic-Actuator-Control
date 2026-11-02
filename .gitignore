@@ -1,0 +1,21 @@
+# PlatformIO build artifacts & local cache
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Arduino IDE build outputs
+build/
+*.bin
+*.elf
+*.hex
+
+# Code editor & IDE configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System temporary files
+.DS_Store
+Thumbs.db
+desktop.ini
